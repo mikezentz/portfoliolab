@@ -1,0 +1,24 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+.App {
+  text-align: center;
+}
+
+.videobanner {
+  	width: 100%;
+  	background-color: black;
+    text-align: center;
+  	margin: auto;
+  }
+
+  img {
+    width: 100%;
+    height: 300px
+  }
+
+  .galleryofbeauty {
+    display: flex;
+  }
